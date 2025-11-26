@@ -94,7 +94,7 @@ export default function Home() {
 
   // WhatsApp Integration
   const handleStartProject = () => {
-    const phoneNumber = "919876543210";
+    const phoneNumber = "917736314029";
     const message =
       "Hello! I'm interested in starting a project with Crestovix Studio. Can we discuss my requirements?";
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(
